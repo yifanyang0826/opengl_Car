@@ -1,0 +1,3 @@
+C:/Users/YYF/source/repos/ThirdParty/XInputSimulator-master/XInputSimulator/sln/CMakeFiles/XInputSimulator.dir
+C:/Users/YYF/source/repos/ThirdParty/XInputSimulator-master/XInputSimulator/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/YYF/source/repos/ThirdParty/XInputSimulator-master/XInputSimulator/sln/CMakeFiles/ZERO_CHECK.dir

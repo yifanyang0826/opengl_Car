@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/YYF/source/repos/ThirdParty/XInputSimulator-master/XInputSimulator/CMakeLists.txt
+  main.cpp
+  notimplementedexception.cpp
+  xinputsimulator.cpp
+  xinputsimulatorimpl.cpp
+  xinputsimulatorimplwin.cpp
+  Generating Code...
+  XInputSimulator.vcxproj -> C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\sln\Debug\XInputSimulator.exe

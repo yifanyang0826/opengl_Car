@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\SOURCE\REPOS\THIRDPARTY\ASSIMP-4.1.0\CONTRIB\IRRXML\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Administrator/source/repos/ThirdParty/assimp-4.1.0 -BC:/Users/Administrator/source/repos/ThirdParty/assimp-4.1.0/sln --check-stamp-file C:/Users/Administrator/source/repos/ThirdParty/assimp-4.1.0/sln/contrib/irrXML/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

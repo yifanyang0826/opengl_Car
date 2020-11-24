@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Administrator/source/repos/ThirdParty/assimp-4.1.0/tools/assimp_cmd/CMakeLists.txt
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> C:\Users\Administrator\source\repos\ThirdParty\assimp-4.1.0\sln\tools\assimp_cmd\Debug\assimp.exe

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\notimplementedexception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulatorimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulatorimplwin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\notimplementedexception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulatorimpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\xinputsimulatorimplwin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\YYF\source\repos\ThirdParty\XInputSimulator-master\XInputSimulator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{67454BBD-50DE-3406-B0DA-0837DAC6CD93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4F8445E2-DC7D-39B2-A235-B8C12FE68C8C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
