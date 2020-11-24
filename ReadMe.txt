@@ -1,8 +1,9 @@
 Yifan Yang 40038814 yifanyang0826@gmail.com 
 
+
+CopyRight:The recourses in Assets folder don't belong to me. The third party environment modules in third party folder don't belong to me. The std_image.h in Labs folder is from https://github.com/nothings/stb/blob/master/stb_image.h
 -------------------------------------------------------------------------------------------------------------------------------------
 Environment setting:  Simply user Visual Studio add labs.sln in folder Labs, run main.cpp,other environment are intergrated in folder thirdParty
-
 ------------------------------------------------------------------------------------------------------------------------------
 Features Implemented:
 
@@ -23,6 +24,8 @@ Programmable Shaders
 Ray Tracing
 
 Texture Mapping
+
+Particle Effect
 
 -------------------------------------------------------------------------------------------------------------------------------
 
